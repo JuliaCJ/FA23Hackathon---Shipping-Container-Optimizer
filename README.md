@@ -22,7 +22,7 @@ DISCLAIMERS:
 
 This solution was made in ~48 hours and serves as a first-draft/ mock-up. For this reason we had to make certain assumptions and estimations for things like cost, size, and weight.
 
-Some equations may also be inaccurate. For this olution, we assumed all containers/ pallets/ items would be a rectange, but we understand that some items might have more complex shapes that weren't taken into account. 
+Some equations may also be inaccurate. For this solution, we assumed all containers/ pallets/ items would be a rectange, but we understand that some items might have more complex shapes that weren't taken into account. 
 
 
 
