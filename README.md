@@ -18,7 +18,7 @@ To showcase what our solution could be in the future, we created a draft in Figm
 
 [Presentation.pdf](Presentation.pdf) contains our solution presentation, which came with a live demonstration.
 
-DISCLAIMERS:
+# # DISCLAIMERS
 
 This solution was made in ~48 hours and serves as a first-draft/ mock-up. For this reason we had to make certain assumptions and estimations for things like cost, size, and weight.
 
