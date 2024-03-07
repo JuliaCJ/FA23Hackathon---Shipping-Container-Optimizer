@@ -14,6 +14,14 @@ Once the best-fit container is determined, it will also show the cheapest contai
 
 To showcase what our solution could be in the future, we created a draft in Figma, which can be seen [here](https://www.figma.com/file/6TPZpzIK4LJzRXiv56ywk2/Container-Optamizer?type=design&node-id=0%3A1&mode=design&t=chC56czygmI69ONR-1).
 
-[F23Hackathon](F23Hackathon) contains the code used for our solution.
+[F23Hackathon](F23Hackathon) contains the code used for our solution, as well as a default order for those who want to test it out without inputing information.
 
-[]()
+[Presentation.pdf](Presentation.pdf) contains our solution presentation, which came with a live demonstration.
+
+DISCLAIMERS:
+This solution was made in ~48 hours and serves as a first-draft/ mock-up. For this reason we had to make certain assumptions and estimations for things like cost, size, and weight.
+
+Some equations may also be inaccurate. For this olution, we assumed all containers/ pallets/ items would be a rectange, but we understand that some items might have more complex shapes that weren't taken into account. 
+
+
+
