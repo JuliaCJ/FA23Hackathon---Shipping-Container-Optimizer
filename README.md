@@ -1,4 +1,5 @@
-# Shipping Container Optimizer (Fall 2023 Hackathon)
+# Shipping Container Optimizer 
+## Fall 2023 Hackathon
 
 Welcome to Team G14's Hackathon Solution!
 
